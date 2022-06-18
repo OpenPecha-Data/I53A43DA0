@@ -1,0 +1,37 @@
+id: I53A43DA0
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:06:40.466696'
+last_modified: '2022-06-18T20:06:40.466713'
+parser: null
+source_metadata:
+  title: Ngor chens (1382–1456) history of Hevajra and the Lamdre lineage masters
+  author: ngor chen kun dga bzang po/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-06-30); revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by Sachen International,
+    Kathmandu (Nepal). (src)
+  - Text input:Guru Lama, Sachen International, Kathmandu (Nepal) (si)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4921
+  bases:
+    dd60:
+      title: Ngor chens (1382–1456) history of Hevajra and the Lamdre lineage masters
+      order: 1
+      base_file: dd60.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
